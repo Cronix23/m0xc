@@ -4,7 +4,7 @@ on:
 
   push:
     branches:
-      - master
+      - main
       
   schedule:
   - cron: "31 07 * * *" # See https://crontab.guru/#31_07_*_*_*
